@@ -1,4 +1,4 @@
-# Vortex Messenger Dump
+# Vortex Messenger
 
 > 🌀 Мощный инструмент для управления и анализа данных мессенджера Vortex
 
@@ -160,3 +160,9 @@ python analyze.py --chat-id 123456 --generate-graphs
 **⭐ Если проект вам помогает, поставьте звездочку! Это помогает нам развивать проект.**
 
 Сделано с ❤️ для сообщества
+
+
+
+
+Об авторе:
+GitHub: (https://github.com/hineeks/)
