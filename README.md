@@ -165,4 +165,4 @@ python analyze.py --chat-id 123456 --generate-graphs
 
 
 Об авторе:
-GitHub: (https://github.com/hineeks/)
+GitHub: [Профиль GitHub](https://github.com/hineeks)
